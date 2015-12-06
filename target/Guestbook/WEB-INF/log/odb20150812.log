@@ -1,0 +1,16 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2015-08-12 00:03:25 #1 store] 
+Database 'C:\Users\adil\Desktop\guestbook-web\target\Guestbook\WEB-INF\db\guest.odb' is opened by 11536@Adil
+
+[2015-08-12 00:10:13 #2 store] 
+Database 'C:\Users\adil\Desktop\guestbook-web\target\Guestbook\WEB-INF\db\guest.odb' is closed by 11536@Adil
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2015-08-12 00:10:28 #1 store] 
+Database 'C:\Users\adil\Desktop\guestbook-web\target\Guestbook\WEB-INF\db\guest.odb' is opened by 8284@Adil
+
+[2015-08-12 22:01:24 #2 store] 
+Database 'C:\Users\adil\Desktop\guestbook-web\target\Guestbook\WEB-INF\db\guest.odb' is closed by 8284@Adil
+

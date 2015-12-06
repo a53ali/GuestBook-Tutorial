@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2015-08-10 00:39:59 #1 store] 
+Database 'C:\Users\adil\Desktop\guestbook-web\target\Guestbook\WEB-INF\db\guest.odb' is opened by 4516@Adil
+
+[2015-08-10 00:40:00 #2 type.registry] 
+New type guest.Guest
+
+[2015-08-10 00:54:27 #3 store] 
+Database 'C:\Users\adil\Desktop\guestbook-web\target\Guestbook\WEB-INF\db\guest.odb' is closed by 4516@Adil
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2015-08-10 00:54:48 #1 store] 
+Database 'C:\Users\adil\Desktop\guestbook-web\target\Guestbook\WEB-INF\db\guest.odb' is opened by 8568@Adil
+
+[2015-08-11 20:48:52 #2 store] 
+Database 'C:\Users\adil\Desktop\guestbook-web\target\Guestbook\WEB-INF\db\guest.odb' is closed by 8568@Adil
+
